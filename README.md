@@ -1,1 +1,1 @@
-# temp-repo
+Update README for course 
